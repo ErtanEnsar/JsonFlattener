@@ -1,0 +1,10 @@
+{
+ "id": "0001",
+ "type": "donut",
+ "name": "Cake",
+ "ppu": 0.55,
+ "batters.batter.id": "1004",
+ "batters.batter.type": "Devil's Food",
+ "topping.id": "5004",
+ "topping.type": "Maple"
+}

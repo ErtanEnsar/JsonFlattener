@@ -1,0 +1,10 @@
+{
+    "Firstname": "Milk",
+    "Lastname": "Chocolate",
+    "Age": 1,
+    "Male": true,
+    "Other": {
+        "Born":"Konya",
+        "Cpr": "2306074565"
+    }
+}
