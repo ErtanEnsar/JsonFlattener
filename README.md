@@ -11,3 +11,4 @@
 ### Interesting but not neccesary info
 - Total Time spent on the code is 4 hours.
 - JsonFlattener.py works as a module for Flatten.py
+- The script runs at linear time the most.
