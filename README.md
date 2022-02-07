@@ -1,6 +1,6 @@
 ### Usage
 - Download the neccesary files and cd to folder.
-- To flatten nested files, use the general form: **cat File.json | python3  Flatten.py**
+- To flatten nested Json object in given file, use the general form: **cat File.json | python3  Flatten.py**
 - There is 3 test files included for your convenience all called Input you can use them as such: **cat TestFiles/Input[1-3].json | python3  Flatten.py**
 - The program will not run if the given Json is not valid, try and see if you can break it :)
 ------------
