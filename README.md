@@ -5,7 +5,7 @@
 - The program will not run if the given Json is not valid, try and see if you can break it :)
 ------------
 ### Testing
-- To run the given tests use the command: ** python -m unittest JsonFlattenerTest **
+- To run the given tests use the command: **python -m unittest JsonFlattenerTest**
 
 ------------
 ### Interesting but not neccesary info
